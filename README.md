@@ -6,4 +6,4 @@
 1. [Git](https://github.com/Holiden/Library/blob/master/Pages/Git.md)
 2. [Командная строка](https://github.com/Holiden/Library/blob/master/Pages/Terminal.md)
 
-![Roadmap](https://github.com/Holiden/Library/blob/master/Assets/Roadmap.jpg)
+![Roadmap](https://github.com/Holiden/Library/blob/master/Assets/roadmap.jpg)
