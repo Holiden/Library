@@ -5,7 +5,7 @@
 1. [Основы грид](#основы-грид)
 2. [Расположение грид-элементов](#расположение-грид-элементов)
 
-[К разделам CSS](https://github.com/Holiden/Library/blob/master/Pages/CSS/README.md)
+[К разделам CSS](https://github.com/Holiden/Library/blob/master/Sections/CSS/README.md)
 [На главную](https://github.com/Holiden/Library/blob/master/README.md)
 
 ## Основы грид
@@ -24,7 +24,7 @@
 
 В гриде элементы располагаются по двумерной сетке. То есть грид состоит из рядов и столбцов, располагающихся между линий, которые нумеруются по порядку.
 
-![Схема двумерной сетки](https://github.com/Holiden/Library/blob/master/Assets/2.png)
+![Схема двумерной сетки](https://github.com/Holiden/Library/blob/master/Assets/CSS/2.png)
 
 Чтобы расположить элемент по сетке внутри грида, нужно задать ему координаты по столбцам и по рядам: с какой линии столбцов и рядов грид-ячейка будет начинаться, на какой линии столбцов и рядов будет заканчиваться.
 

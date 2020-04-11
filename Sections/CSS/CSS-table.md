@@ -11,7 +11,7 @@
 7. [Колонка таблицы](#колонка-таблицы)
 8. [Группировка колонок таблицы](#группировка-колонок-таблицы)
 
-[К разделам CSS](https://github.com/Holiden/Library/blob/master/Pages/CSS/README.md)
+[К разделам CSS](https://github.com/Holiden/Library/blob/master/Sections/CSS/README.md)
 [На главную](https://github.com/Holiden/Library/blob/master/README.md)
 
 ## Основы таблиц

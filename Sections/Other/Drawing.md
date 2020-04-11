@@ -5,6 +5,7 @@
 1. [Общая информация](#общая-информация)
 2. [Форматы изображений](#форматы-изображений)
 
+[К разделам Разного](https://github.com/Holiden/Library/blob/master/Sections/Other/README.md)
 [На главную](https://github.com/Holiden/Library/blob/master/README.md)
 
 ## Общая информация

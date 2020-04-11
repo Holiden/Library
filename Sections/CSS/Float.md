@@ -7,7 +7,7 @@
 3. [Float и выпадание из потока](#float-и-выпадание-из-потока)
 4. [Свойство clear](#свойство-clear)
 
-[К разделам CSS](https://github.com/Holiden/Library/blob/master/Pages/CSS/README.md)
+[К разделам CSS](https://github.com/Holiden/Library/blob/master/Sections/CSS/README.md)
 [На главную](https://github.com/Holiden/Library/blob/master/README.md)
 
 ## Основы float

@@ -13,6 +13,7 @@
 9. [Удаление веток](#удаление-веток)
 10. [Полный список команд](#полный-список-команд)
 
+[К разделам Окружения](https://github.com/Holiden/Library/blob/master/Sections/Environment/README.md)
 [На главную](https://github.com/Holiden/Library/blob/master/README.md)
 
 ## Конфигурация

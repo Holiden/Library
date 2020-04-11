@@ -23,6 +23,7 @@
 6.4 [Вид сгибов](#вид-сгибов)  
 6.5 [Пунктирные линии](#пунктирные-линии)
 
+[К разделам HTML](https://github.com/Holiden/Library/blob/master/Sections/HTML/README.md)
 [На главную](https://github.com/Holiden/Library/blob/master/README.md)
 
 ## Основы svg
