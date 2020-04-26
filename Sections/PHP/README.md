@@ -5,4 +5,5 @@ PHP называют препроцессорным языком. PHP может
 ## Разделы:
 
 1. [Основы](https://github.com/Holiden/Library/blob/master/Sections/PHP/Basics.md)
+2. [Условия](https://github.com/Holiden/Library/blob/master/Sections/PHP/Terms.md)
 [На главную](https://github.com/Holiden/Library/blob/master/README.md)
