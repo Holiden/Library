@@ -1,13 +1,13 @@
 # Массивы и циклы
 
-## Содержание:
+## Содержание
 
 1. [Массив](#массив)
 2. [Индексы элементов массива](#индексы-элементов-массива)
 3. [Цикл](#цикл)
 3.1 [while](#while)
 
-[К разделам PHP](https://github.com/Holiden/Library/blob/master/Sections/PHP/README.md)
+[К разделам PHP](https://github.com/Holiden/Library/blob/master/sections/php/README.md)
 
 [На главную](https://github.com/Holiden/Library/blob/master/README.md)
 

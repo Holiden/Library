@@ -1,11 +1,11 @@
 # Условия
 
-## Содержание:
+## Содержание
 
 1. [if](#if)
 2. [else](#else)
 
-[К разделам PHP](https://github.com/Holiden/Library/blob/master/Sections/PHP/README.md)
+[К разделам PHP](https://github.com/Holiden/Library/blob/master/sections/php/README.md)
 
 [На главную](https://github.com/Holiden/Library/blob/master/README.md)
 

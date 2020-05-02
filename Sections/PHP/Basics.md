@@ -1,6 +1,6 @@
 # Основы
 
-## Содержание:
+## Содержание
 
 1. [Команды](#команды)
 2. [Теги](#теги)
@@ -18,7 +18,7 @@
 11.3 [И](#и)
 12. [Конкатенация строк](#конкатенация-строк)
 
-[К разделам PHP](https://github.com/Holiden/Library/blob/master/Sections/PHP/README.md)
+[К разделам PHP](https://github.com/Holiden/Library/blob/master/sections/php/README.md)
 
 [На главную](https://github.com/Holiden/Library/blob/master/README.md)
 

@@ -1,6 +1,6 @@
 # CSS Таблицы
 
-## Содержание:
+## Содержание
 
 1. [Основы таблиц](#основы-таблиц)
 2. [Ряды и ячейки таблицы](#ряды-и-ячейки-таблицы)
@@ -11,7 +11,7 @@
 7. [Колонка таблицы](#колонка-таблицы)
 8. [Группировка колонок таблицы](#группировка-колонок-таблицы)
 
-[К разделам CSS](https://github.com/Holiden/Library/blob/master/Sections/CSS/README.md)
+[К разделам CSS](https://github.com/Holiden/Library/blob/master/sections/css/README.md)
 
 [На главную](https://github.com/Holiden/Library/blob/master/README.md)
 

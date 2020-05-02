@@ -1,11 +1,11 @@
 # Grid
 
-## Содержание:
+## Содержание
 
 1. [Основы грид](#основы-грид)
 2. [Расположение грид-элементов](#расположение-грид-элементов)
 
-[К разделам CSS](https://github.com/Holiden/Library/blob/master/Sections/CSS/README.md)
+[К разделам CSS](https://github.com/Holiden/Library/blob/master/sections/css/README.md)
 
 [На главную](https://github.com/Holiden/Library/blob/master/README.md)
 

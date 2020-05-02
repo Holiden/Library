@@ -1,6 +1,6 @@
 # Графика
 
-## Содержание:
+## Содержание
 
 1. [Общая информация](#общая-информация)
 2. [JPEG](#jpeg)
@@ -10,7 +10,7 @@
 6. [SVG](#svg)
 7. [WEBP](#webp)
 
-[К разделам Разного](https://github.com/Holiden/Library/blob/master/Sections/Other/README.md)
+[К разделам Разного](https://github.com/Holiden/Library/blob/master/sections/other/README.md)
 
 [На главную](https://github.com/Holiden/Library/blob/master/README.md)
 
