@@ -7,4 +7,4 @@
 3. [Flexbox](https://github.com/Holiden/Library/blob/master/sections/css/flexbox.md)
 4. [Grid](https://github.com/Holiden/Library/blob/master/sections/css/grid.md)
 
-[На главную](https://github.com/Holiden/Library/blob/master/README.md)
+[На главную](https://github.com/Holiden/Library/blob/master/README.md)
