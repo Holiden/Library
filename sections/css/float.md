@@ -2,9 +2,9 @@
 
 ## Содержание
 
-1. [Основы Float](#основы-float)
-2. [Float и ширина](#float-и-ширина)
-3. [Float и выпадание из потока](#float-и-выпадание-из-потока)
+1. [Основы float](#основы-float)
+2. [Float и ширина](#float-иширина)
+3. [Float и выпадание из потока](#float-ивыпадание-изпотока)
 4. [Свойство clear](#свойство-clear)
 
 [К разделам CSS](https://github.com/Holiden/Library/blob/master/sections/css/README.md)
