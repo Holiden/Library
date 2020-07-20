@@ -8,5 +8,3 @@
 4. [PHP](https://github.com/Holiden/Library/blob/master/sections/php/README.md)
 5. [Окружение](https://github.com/Holiden/Library/blob/master/sections/environment/README.md)
 6. [Разное](https://github.com/Holiden/Library/blob/master/sections/other/README.md)
-
-![Roadmap](https://github.com/Holiden/Library/blob/master/assets/roadmap.jpg)
