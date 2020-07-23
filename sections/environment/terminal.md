@@ -7,7 +7,7 @@
 3. [Горячие клавиши cmder](#горячие-клавиши-cmder)
 4. [Команды](#команды)
 
-[К разделам Окружения](https://github.com/Holiden/Library/blob/master/sections/evironment/README.md)
+[К разделам Окружения](https://github.com/Holiden/Library/blob/master/sections/environment/README.md)
 
 [На главную](https://github.com/Holiden/Library/blob/master/README.md)
 
