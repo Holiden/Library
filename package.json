@@ -10,7 +10,13 @@
   },
   "devDependencies": {
     "@mavrin/remark-typograf": "^2.1.6",
+    "del": "^5.1.0",
     "eyo": "^5.0.0",
+    "gulp": "^4.0.2",
+    "gulp-file-include": "^2.2.2",
+    "gulp-if": "^3.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-replace": "^1.0.0",
     "remark": "^12.0.0",
     "remark-cli": "^8.0.0",
     "remark-lint": "^7.0.0",
@@ -20,6 +26,7 @@
     "remark-lint-no-heading-punctuation": "^2.0.0",
     "remark-lint-no-inline-padding": "^2.0.0",
     "remark-lint-ordered-list-marker-style": "^2.0.0",
+    "yargs": "^15.4.1",
     "yaspeller": "^7.0.0"
   },
   "remarkConfig": {
