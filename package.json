@@ -1,8 +1,10 @@
 {
   "private": true,
   "scripts": {
-    "check": "remark sections/**/*.md --quiet && yaspeller sections/**/*.md",
-    "fix": "remark sections/**/*.md --output && eyo sections/**/*.md --in-place"
+    "check": "remark source/docs/**/*.md --quiet && yaspeller source/docs/**/*.md",
+    "fix": "remark source/docs/**/*.md --output && eyo source/docs/**/*.md --in-place",
+    "dev": "gulp --dev && fractal start",
+    "build": "fractal build && gulp --build"
   },
   "dependencies": {
     "@frctl/fractal": "^1.3.0",
