@@ -10,10 +10,6 @@
 6. [SVG](#svg)
 7. [WEBP](#webp)
 
-[К разделам Разного](https://github.com/Holiden/Library/blob/master/sections/other/README.md)
-
-[На главную](https://github.com/Holiden/Library/blob/master/README.md)
-
 ## Общая информация
 
 Вся графика делится на 2 части: растровая и векторная.

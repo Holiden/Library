@@ -5,10 +5,6 @@
 1. [if](#if)
 2. [else](#else)
 
-[К разделам PHP](https://github.com/Holiden/Library/blob/master/sections/php/README.md)
-
-[На главную](https://github.com/Holiden/Library/blob/master/README.md)
-
 ## if
 
 В языке PHP существует специальная конструкция, которая позволяет выполнять какие-то действия в зависимости от выполнения условий.

@@ -5,10 +5,6 @@
 1. [onclick](#onclick)
 2. [onsubmit](#onsubmit)
 
-[К разделам JS](https://github.com/Holiden/Library/blob/master/sections/js/README.md)
-
-[На главную](https://github.com/Holiden/Library/blob/master/README.md)
-
 ## onclick
 
 Свойство `onclick` означает «по клику»:

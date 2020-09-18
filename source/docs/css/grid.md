@@ -5,10 +5,6 @@
 1. [Основы грид](#основы-грид)
 2. [Расположение грид-элементов](#расположение-грид-элементов)
 
-[К разделам CSS](https://github.com/Holiden/Library/blob/master/sections/css/README.md)
-
-[На главную](https://github.com/Holiden/Library/blob/master/README.md)
-
 ## Основы грид
 
 Чтобы сделать блок грид-контейнером, нужно задать ему соответствующее значение свойства `display`:

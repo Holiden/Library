@@ -7,10 +7,6 @@
 3. [Float и выпадание из потока](#float-ивыпадание-изпотока)
 4. [Свойство clear](#свойство-clear)
 
-[К разделам CSS](https://github.com/Holiden/Library/blob/master/sections/css/README.md)
-
-[На главную](https://github.com/Holiden/Library/blob/master/README.md)
-
 ## Основы float
 
 Изначально свойство `float` было предназначено для того, чтобы включать обтекание элементов текстом. То есть, можно сказать, что `float` — это свойство, включающее режим обтекания.

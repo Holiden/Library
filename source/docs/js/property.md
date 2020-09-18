@@ -5,10 +5,6 @@
 1. [textContent](#textContent)
 2. [value](#value)
 
-[К разделам JS](https://github.com/Holiden/Library/blob/master/sections/js/README.md)
-
-[На главную](https://github.com/Holiden/Library/blob/master/README.md)
-
 ## textContent
 
 У каждого элемента имеется множество свойств: его размеры, цвет и так далее. Свойство `textContent` хранит в себе текстовое содержимое элемента. Свойствам можно присваивать новые значения:

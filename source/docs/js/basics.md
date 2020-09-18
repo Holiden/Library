@@ -8,10 +8,6 @@
 4. [Переменная](#переменная)
 5. [Конкатенация](#конкатенация)
 
-[К разделам JS](https://github.com/Holiden/Library/blob/master/sections/js/README.md)
-
-[На главную](https://github.com/Holiden/Library/blob/master/README.md)
-
 ## Подключение
 
 Код на языке JavaScript называют скриптом. Его сохраняют в отдельный файл с расширением `js`, а чтобы запустить, подключают этот файл на страницу. В HTML для добавления JavaScript есть специальный тег:

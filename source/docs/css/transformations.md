@@ -9,10 +9,6 @@
 5. [Skew](#skew)
 6. [Transform-origin](#transform-origin)
 
-[К разделам CSS](https://github.com/Holiden/Library/blob/master/sections/css/README.md)
-
-[На главную](https://github.com/Holiden/Library/blob/master/README.md)
-
 ## Система координат
 
 Ключевой особенностью является то, что ось Y направлена вниз, а не вверх, так как веб-страница начинается с левого верхнего угла и идёт вниз.

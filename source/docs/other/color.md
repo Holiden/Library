@@ -4,10 +4,6 @@
 
 1. [Прозрачность в hex](#прозрачность-в-hex)
 
-[К разделам Разного](https://github.com/Holiden/Library/blob/master/sections/other/README.md)
-
-[На главную](https://github.com/Holiden/Library/blob/master/README.md)
-
 ## Прозрачность в hex
 
 | Прозрачность | Код |

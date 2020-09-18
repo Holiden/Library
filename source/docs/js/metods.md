@@ -5,10 +5,6 @@
 1. [querySelector](#querySelector)
 2. [Методы для изменения классов](#методы-для-изменения-классов)
 
-[К разделам JS](https://github.com/Holiden/Library/blob/master/sections/js/README.md)
-
-[На главную](https://github.com/Holiden/Library/blob/master/README.md)
-
 ## querySelector
 
 Чтобы найти на странице элемент, нужно использовать метод `querySelector`, он ищет по селектору:

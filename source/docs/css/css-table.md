@@ -11,10 +11,6 @@
 7. [Колонка таблицы](#колонка-таблицы)
 8. [Группировка колонок таблицы](#группировка-колонок-таблицы)
 
-[К разделам CSS](https://github.com/Holiden/Library/blob/master/sections/css/README.md)
-
-[На главную](https://github.com/Holiden/Library/blob/master/README.md)
-
 ## Основы таблиц
 
 Чтобы из любого элемента сделать таблицу в CSS, нужно его свойству `display` присвоить значение `table`.

@@ -23,10 +23,6 @@
    - [Вид сгибов](#вид-сгибов)
    - [Пунктирные линии](#пунктирные-линии)
 
-[К разделам HTML](https://github.com/Holiden/Library/blob/master/sections/html/README.md)
-
-[На главную](https://github.com/Holiden/Library/blob/master/README.md)
-
 ## Основы svg
 
 Svg-элемент вставляется с помощью тега `svg`, внутри которого уже находится остальное содержимое: фигуры, картинки или текст. Все теги в svg должны быть закрыты.
