@@ -16,12 +16,12 @@ fractal.docs.set('path', 'source/docs');
 fractal.docs.set('label', 'Документация');
 
 const theme = mandelbrot({
-    styles: ['default', '/themes/styles/theme.css'],
-    scripts: ['default', '/themes/scripts/theme.js'],
-    nav: ['docs', 'components'],
-    panels: ['view', 'resources', 'notes'],
-    lang: 'ru',
-    favicon: '/themes/favicon.ico'
+  styles: ['default', '/themes/styles/theme.css'],
+  scripts: ['default', '/themes/scripts/theme.js'],
+  nav: ['docs', 'components'],
+  panels: ['view', 'resources', 'notes'],
+  lang: 'ru',
+  favicon: '/themes/favicon.ico'
 });
 
 fractal.web.theme(theme);
@@ -30,6 +30,6 @@ fractal.web.set('static.path', 'assets');
 fractal.web.set('static.mount', 'themes');
 fractal.web.set('server.sync', true);
 fractal.web.set('server.syncOptions', {
-    open: true,
-    notify: false
+  open: true,
+  notify: false
 });
