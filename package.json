@@ -1,24 +1,34 @@
 {
   "private": true,
   "scripts": {
-    "check": "remark source/docs/**/*.md --quiet && yaspeller source/docs/**/*.md",
-    "fix": "remark source/docs/**/*.md --output && eyo source/docs/**/*.md --in-place",
     "dev": "gulp --dev && fractal start",
-    "build": "fractal build && gulp --build"
+    "build": "fractal build && gulp --build",
+    "minification": "gulp minification",
+    "check": "remark source/docs/**/*.md --quiet && yaspeller source/docs/**/*.md",
+    "fix": "remark source/docs/**/*.md --output && eyo source/docs/**/*.md --in-place"
   },
   "dependencies": {
     "@frctl/fractal": "^1.3.0",
     "@frctl/mandelbrot": "^1.4.0"
   },
   "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
     "@mavrin/remark-typograf": "^2.1.6",
+    "autoprefixer": "^9.8.6",
+    "cssnano": "^4.1.10",
     "del": "^5.1.0",
     "eyo": "^5.0.0",
     "gulp": "^4.0.2",
-    "gulp-file-include": "^2.2.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-htmlmin": "^5.0.1",
     "gulp-if": "^3.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^8.0.0",
     "gulp-rename": "^2.0.0",
     "gulp-replace": "^1.0.0",
+    "gulp-terser": "^1.4.0",
+    "postcss-import": "^12.0.1",
     "remark": "^12.0.0",
     "remark-cli": "^8.0.0",
     "remark-lint": "^7.0.0",
@@ -28,6 +38,9 @@
     "remark-lint-no-heading-punctuation": "^2.0.0",
     "remark-lint-no-inline-padding": "^2.0.0",
     "remark-lint-ordered-list-marker-style": "^2.0.0",
+    "rollup-stream": "^1.24.1",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0",
     "yargs": "^15.4.1",
     "yaspeller": "^7.0.0"
   },
