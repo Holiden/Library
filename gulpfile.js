@@ -1,3 +1,5 @@
+'use strict';
+
 const { src, dest, series, parallel } = require('gulp');
 const del = require('del');
 const plumber = require('gulp-plumber');
