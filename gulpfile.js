@@ -62,7 +62,10 @@ const scripts = () => {
 exports.scripts = scripts;
 
 const remove = () => {
-  return del('source/components/_preview/_preview.js');
+  return del([
+    './source/components/_preview/_preview.js',
+    './build/components/raw/preview/_preview.js'
+  ]);
 }
 
 exports.remove = remove;
@@ -98,5 +101,5 @@ const minificationScripts = () => {
 
 exports.minificationScripts = minificationScripts;
 
-exports.default = series(remove, views, scripts);
+exports.default = series(remove, parallel(views, scripts));
 exports.minification = parallel(minificationViews, minificationStyles, minificationScripts);
