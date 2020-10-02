@@ -1,4 +1,7 @@
-# Float
+---
+order: 3
+label: Float
+---
 
 ## Содержание
 

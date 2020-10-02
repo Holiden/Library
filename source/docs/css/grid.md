@@ -1,4 +1,7 @@
-# Grid
+---
+order: 2
+label: Grid
+---
 
 ## Содержание
 
