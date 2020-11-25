@@ -1,0 +1,22 @@
+{
+  "format": "markdown",
+  "excludeFiles": [
+    "node_modules",
+    ".editorconfig",
+    ".gitignore",
+    ".yaspellerrc",
+    "package.json",
+    "package-lock.json"
+  ],
+  "fileExtensions": [
+    ".md"
+  ],
+  "dictionary": [],
+  "checkYo": true,
+  "findRepeatWords": true,
+  "flagLatin": true,
+  "ignoreDigits": true,
+  "ignoreRomanNumerals": true,
+  "ignoreUppercase": true,
+  "ignoreUrls": true
+}

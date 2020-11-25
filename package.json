@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "check": "remark source/docs/**/*.md --quiet && yaspeller source/docs/**/*.md",
+    "check": "remark source/docs/**/*.md --quiet && yaspeller source/docs/**/*.md && eyo source/docs/**/*.md --lint",
     "fix": "remark source/docs/**/*.md --output && eyo source/docs/**/*.md --in-place"
   },
   "devDependencies": {
@@ -17,42 +17,5 @@
     "remark-lint-no-inline-padding": "^3.0.0",
     "remark-lint-ordered-list-marker-style": "^2.0.1",
     "yaspeller": "^7.0.0"
-  },
-  "remarkConfig": {
-    "settings": {
-      "fences": true,
-      "listItemIndent": "1"
-    },
-    "plugins": [
-      [
-        "@mavrin/remark-typograf",
-        {
-          "locale": [
-            "ru",
-            "en-US"
-          ],
-          "enableRule": [
-            "ru/money/ruble",
-            "common/nbsp/replaceNbsp"
-          ]
-        }
-      ],
-      "lint-heading-increment",
-      "lint-list-item-content-indent",
-      "lint-no-empty-url",
-      "lint-no-heading-punctuation",
-      "lint-no-inline-padding",
-      [
-        "lint-ordered-list-marker-style",
-        "."
-      ]
-    ]
-  },
-  "yaspeller": {
-    "findRepeatWords": true,
-    "ignoreDigits": true,
-    "ignoreRomanNumerals": true,
-    "ignoreUppercase": true,
-    "ignoreUrls": true
   }
 }
