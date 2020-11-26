@@ -1,8 +1,8 @@
 {
   "private": true,
   "scripts": {
-    "check": "remark source/docs/**/*.md --quiet && yaspeller source/docs/**/*.md && eyo source/docs/**/*.md --lint",
-    "fix": "remark source/docs/**/*.md --output && eyo source/docs/**/*.md --in-place"
+    "check": "remark docs/**/*.md --quiet && yaspeller source/docs/**/*.md && eyo source/docs/**/*.md --lint",
+    "fix": "remark docs/**/*.md --output && eyo source/docs/**/*.md --in-place"
   },
   "devDependencies": {
     "@mavrin/remark-typograf": "^2.1.6",
