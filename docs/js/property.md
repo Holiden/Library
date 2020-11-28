@@ -3,8 +3,9 @@ order: 3
 label: Свойства
 ---
 
-
 ## Содержание
+
+[Вернуться на главную](/README.md) | [JS](./README.md)
 
 1. [textContent](#textContent)
 2. [value](#value)

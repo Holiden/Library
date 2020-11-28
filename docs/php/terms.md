@@ -5,6 +5,8 @@ label: Условия
 
 ## Содержание
 
+[Вернуться на главную](/README.md) | [PHP](./README.md)
+
 1. [if](#if)
 2. [else](#else)
 

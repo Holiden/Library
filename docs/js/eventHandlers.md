@@ -5,6 +5,8 @@ label: Обработчики событий
 
 ## Содержание
 
+[Вернуться на главную](/README.md) | [JS](./README.md)
+
 1. [onclick](#onclick)
 2. [onsubmit](#onsubmit)
 

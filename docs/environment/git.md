@@ -5,6 +5,8 @@ label: Git
 
 ## Содержание
 
+[Вернуться на главную](/README.md) | [Окружение](./README.md)
+
 1. [Конфигурация](#конфигурация)
 2. [.gitattributes](#gitattributes)
 3. [Основы Git](#основы-git)
