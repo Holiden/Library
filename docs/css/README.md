@@ -2,7 +2,7 @@
 
 [Вернуться на главную](/README.md)
 
-Разделы:
+## Разделы
 
 1. [Flexbox](./flexbox.md)
 2. [Grid](./grid.md)

@@ -1,11 +1,8 @@
----
-order: 3
-label: Float
----
-
-## Содержание
+# Float
 
 [Вернуться на главную](/README.md) | [CSS](./README.md)
+
+## Содержание
 
 1. [Основы float](#основы-float)
 2. [Float и ширина](#float-иширина)

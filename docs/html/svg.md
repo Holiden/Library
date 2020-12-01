@@ -1,7 +1,4 @@
----
-order: 1
-label: SVG
----
+# SVG
 
 [Вернуться на главную](/README.md) | [HTML](./README.md)
 

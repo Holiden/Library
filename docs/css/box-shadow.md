@@ -1,7 +1,5 @@
----
-hidden: true
-order: 
-label: Тени
----
+# Тени
 
 [Вернуться на главную](/README.md) | [CSS](./README.md)
+
+## Содержание

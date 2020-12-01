@@ -1,10 +1,8 @@
----
-hidden: true
-order: 
-label: Разное
----
+# Разное
 
 [Вернуться на главную](/README.md) | [CSS](./README.md)
+
+## Содержание
 
 Свойство: word-wrap: break-word (оно же overflow-wrap)
 Браузерная совместимость: все

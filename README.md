@@ -2,7 +2,7 @@
 
 Хранилище полезных знаний
 
-Навигация:
+## Разделы
 
 1. [HTML](/docs/html/README.md)
 2. [CSS](/docs/css/README.md)
