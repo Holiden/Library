@@ -11,7 +11,13 @@
   "fileExtensions": [
     ".md"
   ],
-  "dictionary": [],
+  "dictionary": [
+    "(C|c)ompose",
+    "(D|d)ocker",
+    "exec",
+    "ps",
+    "up"
+  ],
   "checkYo": true,
   "findRepeatWords": true,
   "flagLatin": true,
