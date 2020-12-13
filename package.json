@@ -1,12 +1,11 @@
 {
   "private": true,
   "scripts": {
-    "check": "remark sections/**/*.md --quiet && yaspeller source/docs/**/*.md && eyo source/docs/**/*.md --lint",
-    "fix": "remark sections/**/*.md --output && eyo source/docs/**/*.md --in-place"
+    "check": "remark --quiet sections/**/*.md && yaspeller --check-yo sections/**/*.md",
+    "fix": "remark --output sections/**/*.md"
   },
   "devDependencies": {
     "@mavrin/remark-typograf": "^2.1.6",
-    "eyo": "^5.0.0",
     "remark": "^13.0.0",
     "remark-cli": "^9.0.0",
     "remark-lint": "^8.0.0",
