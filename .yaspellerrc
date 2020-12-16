@@ -15,6 +15,7 @@
     "(C|c)ompose",
     "(D|d)ocker",
     "exec",
+    "(J|j)ava(S|s)cript",
     "ps",
     "up"
   ],
