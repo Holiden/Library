@@ -1,20 +1,10 @@
 {
   "private": true,
   "scripts": {
-    "check": "remark --quiet sections/**/*.md && yaspeller --check-yo sections/**/*.md",
-    "fix": "remark --output sections/**/*.md"
+    "check": "yaspeller --check-yo sections/**/*.md"
   },
   "devDependencies": {
-    "@mavrin/remark-typograf": "^2.1.6",
-    "remark": "^13.0.0",
-    "remark-cli": "^9.0.0",
-    "remark-lint": "^8.0.0",
-    "remark-lint-heading-increment": "^2.0.1",
-    "remark-lint-list-item-content-indent": "^2.0.1",
-    "remark-lint-no-empty-url": "^2.0.1",
-    "remark-lint-no-heading-punctuation": "^2.0.1",
-    "remark-lint-no-inline-padding": "^3.0.0",
-    "remark-lint-ordered-list-marker-style": "^2.0.1",
+    "prettier": "2.2.1",
     "yaspeller": "^7.0.0"
   }
 }
